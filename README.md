@@ -171,5 +171,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Manish**
 - GitHub: [@Manish-51](https://github.com/Manish-51)
-#   E x p e n s e - T r a c k e r  
- 
